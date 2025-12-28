@@ -2,11 +2,11 @@
 
 ## A collection of simple and practical Bash scripts that I wrote while I’m learning, exploring, and getting started with shell scripting.
 
-### These scripts cover basic tasks such as networking checks, random password generation, directory size calculation, using traps, functions, loops, and more.
+## These scripts cover basic tasks such as networking checks, random password generation, directory size calculation, using traps, functions, loops, and more.
 
 ### This repository is mainly for:
 
-#### Practising Bash concepts
+#### -Practising Bash concepts
 
 #### 1) Saving scripts I learn or experiment with
 
@@ -14,15 +14,15 @@
 
 #### 3) Helping other beginners understand Bash
 
-### About This Repo
+### -About This Repo
 
-#### -Beginner-friendly
+#### 1)Beginner-friendly
 
-#### -Easy to understand
+#### 2)Easy to understand
 
-#### -Real, useful mini-utilities
+#### 3)Real, useful mini-utilities
 
-#### -Good for learning fundamentals of Bash
+#### 4)Good for learning fundamentals of Bash
 
 ### 📂 Scripts Included
 
