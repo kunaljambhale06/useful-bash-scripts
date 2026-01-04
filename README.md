@@ -37,3 +37,9 @@ Checks whether a hostname or IP is reachable using ping.
 #### 🔹 Cleanup on Ctrl+C (trap example)
 
 Shows how to handle interrupts using trap and SIGINT.
+
+#### 🔹 Taking input from user
+
+Shows how to handle user inputs
+
+
