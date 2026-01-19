@@ -42,4 +42,9 @@ Shows how to handle interrupts using trap and SIGINT.
 
 Shows how to handle user inputs
 
+#### 🔹 Exit script
+
+Shows how to exit process with exit code.
+
+
 
