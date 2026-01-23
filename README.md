@@ -46,5 +46,9 @@ Shows how to handle user inputs
 
 Shows how to exit process with exit code.
 
+#### 🔹 File Check Script
+
+Checks whether the file exists or not.
+
 
 
