@@ -50,5 +50,9 @@ Shows how to exit process with exit code.
 
 Checks whether the file exists or not.
 
+#### 🔹 File To Check Root User 
+
+Checks whether you are root user or not.
+
 
 
