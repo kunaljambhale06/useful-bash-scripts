@@ -88,7 +88,7 @@ Counts the number of lines in a given file using `wc`. Demonstrates how to combi
 ### 10) `cpu_memory.sh` — CPU and RAM usage
 Displays a snapshot of current CPU load average and RAM usage.
 
-**Concepts covered:** `wc -l`, top, free, awk, uptime, command substitution (`$1`)
+**Concepts covered:** top, free, awk, uptime, command substitution (`$1`)
 
 ---
 
