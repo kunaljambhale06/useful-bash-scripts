@@ -90,6 +90,11 @@ Displays a snapshot of current CPU load average and RAM usage.
 
 **Concepts covered:** top, free, awk, uptime, command substitution.
 
+### 11) `disk_usage.sh` — Check disk usage
+Checks disk usage of all mounted filesystems and warns if any partition exceeds a defined threshold.
+
+**Concepts covered:**  df, awk, loops, conditionals, exit codes.
+
 ---
 
 ## 🚀 Getting Started
